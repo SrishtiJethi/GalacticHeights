@@ -6,4 +6,4 @@ Welcome to The Galactic Heights - A project that transcends the boundaries of ou
 # Instruction to run the code:
 
 You can simply type the following command in the terminal if you are using Ubuntu 
-g++ galacticHeights.cpp -lglut -lGL -lGLU -lm
+"g++ galacticHeights.cpp -lglut -lGL -lGLU -lm"
